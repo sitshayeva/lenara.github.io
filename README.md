@@ -17,4 +17,4 @@ All of your work performed in a spreadsheet program such as MS Excel.
 
 ![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.1.jpg) 
 <br><br>
-![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.2.jpg) 
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.2.jpg)
