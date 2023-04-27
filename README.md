@@ -15,4 +15,9 @@ We need to help them answer three key questions:
 
 All of your work performed in a spreadsheet program such as MS Excel.
 
-![]()
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.1.jpg)
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.2.jpg)
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.3.jpg)
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.4.jpg)
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.5.jpg)
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/images/project_1/1.6.jpg)
