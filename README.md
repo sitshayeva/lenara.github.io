@@ -8,9 +8,10 @@
 <div style="background-color: #FFC107; padding: 20px;">
 <h1 style="color: #FFF;"> DATA PROJECTS </h1>
 </div>
-  ![](https://github.com/sitshayeva/lenara.github.io/blob/main/projects/EDA_movies_dataset/cover.png)
-  <br><br>
-  <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/EDA_movies_dataset/">View Project's Files</a> 
+<br><br>
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/projects/EDA_movies_dataset/cover.png)
+<br><br>
+<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/EDA_movies_dataset/">View Project's Files</a> 
   
   
 
