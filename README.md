@@ -14,7 +14,8 @@
 </div>
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Exploratory Data Analysis on Movies Dataset</h2>
-![cover](https://github.com/sitshayeva/lenara.github.io/blob/main/projects/EDA_movies_dataset/cover.png)
+</div>
+![](https://github.com/sitshayeva/lenara.github.io/blob/main/projects/EDA_movies_dataset/cover.png?raw=true)
 <br><br>
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/EDA_movies_dataset/">View Project's Files</a> 
   
