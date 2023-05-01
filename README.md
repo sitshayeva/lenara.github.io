@@ -12,16 +12,16 @@
 <h2 style="color: #FFF;">Exploratory Data Analysis on Movies Dataset</h2>
 </div>
 <img
-  src=""
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/1/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-<a href="">View Project's Files</a> 
+<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/1">View Project's Files</a> 
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Working with Web APIs and JSON on Movies Dataset</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/1/cover.png"
+  src=""
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/1">View Project's Files</a> 
+<a href="">View Project's Files</a> 
   
   
   
