@@ -22,7 +22,33 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/2/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/2">View Project's Files</a> 
-  
+
+<div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> </h2>
+</div>
+<img
+  src=" "
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href=" ">View Project's Files</a> 
+
+<div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> </h2>
+</div>
+<img
+  src=" "
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href=" ">View Project's Files</a> 
+
+
+<div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> </h2>
+</div>
+<img
+  src=" "
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href=" ">View Project's Files</a> 
+
+
   
   
 
