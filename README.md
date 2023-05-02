@@ -29,9 +29,9 @@
 <h2 style="color: #FFF;">Create a web server and an Amazon RDS DB instance </h2>
 </div>
 <img
-  src=" "
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/3/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-<a href=" ">View Project's Files</a> 
+<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/3">View Project's Files</a> 
 
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;"> </h2>
