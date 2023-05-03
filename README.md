@@ -22,7 +22,7 @@
 <h2 style="color: #FFF;"> Create a Dashboard Meeting Business Requirements</h2>
 </div>
 <img
-  src=" https://github.com/sitshayeva/lenara.github.io/blob/main/projects/6/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/6/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/6 ">View Project's Files</a> 
 
