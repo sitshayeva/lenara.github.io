@@ -9,7 +9,7 @@
 <div style="background-color: #FFC107; padding: 20px;">
 <h1 style="color: #FFF;"> DATA PROJECTS </h1>
 </div>
--------------------------------------------------------------------------------------------------------
+
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Assess the Quality of a Dataset for a Public Service Agency </h2>
 </div>
@@ -17,7 +17,8 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/4/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4">View Project's Files</a> 
--------------------------------------------------------------------------------------------------------
+
+
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;"> Create a Dashboard Meeting Business Requirements</h2>
 </div>
@@ -25,7 +26,8 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/6/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/6 ">View Project's Files</a> 
--------------------------------------------------------------------------------------------------------
+
+
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;"> Retrieve User Activity Data on an Online Forum Using SQL </h2>
 </div>
@@ -33,7 +35,8 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/7/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/7">View Project's Files</a> 
--------------------------------------------------------------------------------------------------------
+
+
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Working with Web APIs and JSON on Movies Dataset</h2>
 </div>
@@ -41,7 +44,8 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/2/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/2">View Project's Files</a> 
--------------------------------------------------------------------------------------------------------
+
+
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Explore a Dataset on Energy Usage and Draw First Conclusions</h2>
 </div>
@@ -49,7 +53,8 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/5/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href=" https://github.com/sitshayeva/lenara.github.io/tree/main/projects/5">View Project's Files</a> 
--------------------------------------------------------------------------------------------------------
+
+
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Create a web server and an Amazon RDS DB instance </h2>
 </div>
@@ -57,7 +62,8 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/3/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/3">View Project's Files</a> 
--------------------------------------------------------------------------------------------------------
+
+
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Exploratory Data Analysis on Movies Dataset</h2>
 </div>
@@ -65,7 +71,6 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/1/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/1">View Project's Files</a> 
--------------------------------------------------------------------------------------------------------
 
 
 
@@ -73,6 +78,8 @@
 
 
 
+
+--------------------------------------------------------------------------------------------------------------
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;"> </h2>
 </div>
@@ -99,6 +106,31 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href=" ">View Project's Files</a> 
 
+<div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> </h2>
+</div>
+<img
+  src=" "
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href=" ">View Project's Files</a> 
+
+
+<div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> </h2>
+</div>
+<img
+  src=" "
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href=" ">View Project's Files</a> 
+
+
+<div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> </h2>
+</div>
+<img
+  src=" "
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href=" ">View Project's Files</a> 
 
 
   
