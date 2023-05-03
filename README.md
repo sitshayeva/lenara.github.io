@@ -89,6 +89,14 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/10">View Project's Files</a> 
 
+<div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> Short-Term Rental Analytics on AirBnB Bristol Dataset </h2>
+</div>
+<img
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/11/cover.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/11 ">View Project's Files</a> 
+
 
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Exploratory Data Analysis on Movies Dataset</h2>
@@ -114,13 +122,7 @@
 
 
 
-<div style="background-color: #FFC110; padding: 20px;">
-<h2 style="color: #FFF;"> </h2>
-</div>
-<img
-  src=" "
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-<a href=" ">View Project's Files</a> 
+
 
 
 <div style="background-color: #FFC110; padding: 20px;">
