@@ -19,6 +19,14 @@
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4">View Project's Files</a> 
 
 <div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> Create a Dashboard Meeting Business Requirements</h2>
+</div>
+<img
+  src=" https://github.com/sitshayeva/lenara.github.io/blob/main/projects/6/cover.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/6 ">View Project's Files</a> 
+
+<div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Working with Web APIs and JSON on Movies Dataset</h2>
 </div>
 <img
@@ -56,13 +64,7 @@
 
 
 
-<div style="background-color: #FFC110; padding: 20px;">
-<h2 style="color: #FFF;"> </h2>
-</div>
-<img
-  src=" "
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-<a href=" ">View Project's Files</a> 
+
 
 
 <div style="background-color: #FFC110; padding: 20px;">
