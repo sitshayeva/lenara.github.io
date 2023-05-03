@@ -27,6 +27,14 @@
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/6 ">View Project's Files</a> 
 
 <div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;"> Retrieve User Activity Data on an Online Forum Using SQL </h2>
+</div>
+<img
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/7/cover.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/7">View Project's Files</a> 
+
+<div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Working with Web APIs and JSON on Movies Dataset</h2>
 </div>
 <img
