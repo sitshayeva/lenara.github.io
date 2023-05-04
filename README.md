@@ -66,6 +66,14 @@
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/3">View Project's Files</a> 
 
 <div style="background-color: #FFC110; padding: 20px;">
+<h2 style="color: #FFF;">Data Analysis using Pandas and SQLite3</h2>
+</div>
+<img
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/14/cover.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/14">View Project's Files</a> 
+
+<div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;"> E-commerce Store Sales Analysis</h2>
 </div>
 <img
@@ -88,14 +96,6 @@
   src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/12/cover.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/12">View Project's Files</a> 
-
-<div style="background-color: #FFC110; padding: 20px;">
-<h2 style="color: #FFF;">Data Analysis using Pandas and SQLite3</h2>
-</div>
-<img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/14/cover.png"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-<a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/14">View Project's Files</a> 
 
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Data Cleaning on Movies Dataset </h2>
