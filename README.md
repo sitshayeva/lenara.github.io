@@ -16,7 +16,7 @@
 <h2 style="color: #FFF;">Assess the Quality of a Dataset for a Public Service Agency </h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/4/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/4.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4">View Project's Files</a> 
 
@@ -25,7 +25,7 @@
 <h2 style="color: #FFF;"> Create a Dashboard Meeting Business Requirements</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/6/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/6.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/6 ">View Project's Files</a> 
 
@@ -34,7 +34,7 @@
 <h2 style="color: #FFF;"> Retrieve User Activity Data on an Online Forum Using SQL </h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/7/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/7.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/7">View Project's Files</a> 
 
@@ -43,7 +43,7 @@
 <h2 style="color: #FFF;">Working with Web APIs and JSON on Movies Dataset</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/2/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/2.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/2">View Project's Files</a> 
 
@@ -52,7 +52,7 @@
 <h2 style="color: #FFF;">Explore a Dataset on Energy Usage and Draw First Conclusions</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/5/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/5.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href=" https://github.com/sitshayeva/lenara.github.io/tree/main/projects/5">View Project's Files</a> 
 
@@ -61,7 +61,7 @@
 <h2 style="color: #FFF;">Create a web server and an Amazon RDS DB instance </h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/3/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/3.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/3">View Project's Files</a> 
 
@@ -69,7 +69,7 @@
 <h2 style="color: #FFF;">Data Analysis using Pandas and SQLite3</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/14/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/14.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/14">View Project's Files</a> 
 
@@ -77,7 +77,7 @@
 <h2 style="color: #FFF;"> E-commerce Store Sales Analysis</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/8/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/8.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/8">View Project's Files</a> 
 
@@ -85,7 +85,7 @@
 <h2 style="color: #FFF;"> Exploratory Data Analysis on Diamonds Dataset</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/9/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/9.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/9">View Project's Files</a> 
 
@@ -93,7 +93,7 @@
 <h2 style="color: #FFF;">Data Cleaning, Transformation and Visualisation on AirBnB London Dataset</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/12/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/12.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/12">View Project's Files</a> 
 
@@ -101,7 +101,7 @@
 <h2 style="color: #FFF;">Data Cleaning on Movies Dataset </h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/10/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/10.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/10">View Project's Files</a> 
 
@@ -109,7 +109,7 @@
 <h2 style="color: #FFF;"> Short-Term Rental Analytics on AirBnB Bristol Dataset </h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/11/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/11.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/11 ">View Project's Files</a> 
 
@@ -117,7 +117,7 @@
 <h2 style="color: #FFF;">Data Cleaning, Merging, Transforming on Movies Dataset </h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/13/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/13.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/13">View Project's Files</a> 
 
@@ -125,7 +125,7 @@
 <h2 style="color: #FFF;">Exploratory Data Analysis on Movies Dataset</h2>
 </div>
 <img
-  src="https://github.com/sitshayeva/lenara.github.io/blob/main/projects/1/cover.png"
+  src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/1.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/1">View Project's Files</a> 
 
