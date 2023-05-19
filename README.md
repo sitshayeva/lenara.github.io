@@ -26,7 +26,7 @@
 </div>
 
 #### Assess the Quality of a Dataset for a Public Service Agency
-![Project Image](https://github.com/sitshayeva/lenara.github.io/blob/main/images/4.png)
+![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
 
 #### Create a Dashboard Meeting Business Requirements
