@@ -1,11 +1,4 @@
 
-<style>
-.text-justify {
-  text-align: justify;
-  text-indent: 2em;
-}
-</style>
-
 ## Summary
 
 Lenara Sitshayeva, Ph.D.
