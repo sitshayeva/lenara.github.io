@@ -13,7 +13,7 @@
 <div style="background-color: #FFC110; padding: 20px;">
 <h2 style="color: #FFF;">Assess the Quality of a Dataset for a Public Service Agency </h2>
 </div>
-<img src="https://raw.githubusercontent.com/sitshayeva/lenara.github.io/main/images/4.png" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="https://github.com/sitshayeva/lenara.github.io/blob/main/images/4.png" style="display: inline-block; margin: 0 auto; max-width: 300px">
 <a href="https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4">View Project's Files</a>
 
 
