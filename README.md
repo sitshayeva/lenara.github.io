@@ -28,6 +28,10 @@ I am currently seeking new opportunities to apply my skills and contribute to dr
   <h1 style="color: #FFF;"> DATA PROJECTS </h1>
 </div>
 
+## Sentiment Analysis of Yelp Business Reviews
+![Project Image](images/15.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/15)
+
 ## Assess the Quality of a Dataset for a Public Service Agency
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
