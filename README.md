@@ -46,6 +46,10 @@ I am currently seeking new opportunities to apply my skills and contribute to dr
 ![Project Image](images/19_2.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/19)
 
+## Machine Learning Analysis in Retail
+![Project Image](images/21.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/21)
+
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
