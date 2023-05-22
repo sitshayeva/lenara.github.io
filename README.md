@@ -47,7 +47,7 @@ I am currently seeking new opportunities to apply my skills and contribute to dr
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/19)
 
 ## Correlation in Python
-![Project Image](images/20.png)
+![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
 
 ## Assess the Quality of a Dataset for a Public Service Agency
