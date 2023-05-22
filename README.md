@@ -54,6 +54,11 @@ I am currently seeking new opportunities to apply my skills and contribute to dr
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
 
+## Credit Card Fraud Detection Scikit-Learn and Snap ML
+![Project Image](images/22_1.png)
+![Project Image](images/22_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/22)
+
 ## Assess the Quality of a Dataset for a Public Service Agency
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
