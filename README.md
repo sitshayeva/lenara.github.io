@@ -1,7 +1,7 @@
 # Lenara Sitshayeva, Ph.D.
 <div class="text-justify">
 - I am a data analyst with a strong background in leveraging data insights to drive business growth. 
-- With over 6 years of experience, I have developed expertise in extracting and analyzing complex data sets, building data models, and generating meaningful insights. 
+- With over 6 years of experience, I have developed expertise in extracting and analyzing complex data sets, building data models, and generating meaningful insights.
 - My technical skills include SQL, Python, Tableau, and Power BI, which I have used to deliver impactful data-driven solutions.
 </div>
 
