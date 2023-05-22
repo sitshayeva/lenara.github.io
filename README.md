@@ -1,18 +1,18 @@
 # Lenara Sitshayeva, Ph.D.
 <div class="text-justify">
-* I am a data analyst with a strong background in leveraging data insights to drive business growth. 
-* With over 6 years of experience, I have developed expertise in extracting and analyzing complex data sets, building data models, and generating meaningful insights. 
-* My technical skills include SQL, Python, Tableau, and Power BI, which I have used to deliver impactful data-driven solutions.
+*I am a data analyst with a strong background in leveraging data insights to drive business growth. 
+*With over 6 years of experience, I have developed expertise in extracting and analyzing complex data sets, building data models, and generating meaningful insights. 
+*My technical skills include SQL, Python, Tableau, and Power BI, which I have used to deliver impactful data-driven solutions.
 </div>
 
 <div class="text-justify">
-* One of my key strengths is my ability to collaborate effectively with cross-functional teams. 
-* By working closely with stakeholders from different departments, I can identify opportunities for improvement and implement data-driven strategies to achieve business goals. 
-* I am skilled in presenting insights to senior leadership, enabling informed decision-making and driving action.
+*One of my key strengths is my ability to collaborate effectively with cross-functional teams. 
+*By working closely with stakeholders from different departments, I can identify opportunities for improvement and implement data-driven strategies to achieve business goals. 
+*I am skilled in presenting insights to senior leadership, enabling informed decision-making and driving action.
 </div>
 
 <div class="text-justify">
-* I am currently seeking new opportunities to apply my skills and contribute to driving business results through data science.
+*I am currently seeking new opportunities to apply my skills and contribute to driving business results through data science.
 </div>
 
 <div style="background-color: #FFC107; padding: 20px;">
