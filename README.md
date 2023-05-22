@@ -23,9 +23,9 @@ I am currently seeking new opportunities to apply my skills and contribute to dr
 
 
 | [LinkedIn](https://www.linkedin.com/in/lenara-sitshayeva/) | [365 Data Science](learn.365financialanalyst.com/profile/lenara-sitshayeva-phd/) | [DataCamp](https://www.datacamp.com/profile/LenaraSitshayeva) |[Kaggle](https://www.kaggle.com/lenarasitshayeva) | [Credly](https://www.credly.com/users/lenara-sitshayeva) | [Medium](https://medium.com/@sitshayeva) | 
+[Tableau](https://public.tableau.com/app/profile/lenara.sitshayeva) | [Google Colab](https://drive.google.com/drive/folders/1hDZrSDr9H5a28IoPMrSnel6Gb2EZWeSX?usp=share_link) | 
 <br>
-|[Tableau](https://public.tableau.com/app/profile/lenara.sitshayeva) | [Google Colab](https://drive.google.com/drive/folders/1hDZrSDr9H5a28IoPMrSnel6Gb2EZWeSX?usp=share_link) | [GitHub](https://github.com/sitshayeva) | [Dags Hub](https://dagshub.com/sitshayeva) | [Jovian](https://jovian.com/sitshayeva) | [Data World](https://data.world/lenara) | 
-<br>
+|[GitHub](https://github.com/sitshayeva) | [Dags Hub](https://dagshub.com/sitshayeva) | [Jovian](https://jovian.com/sitshayeva) | [Data World](https://data.world/lenara) | 
 |[Codewars](https://www.codewars.com/users/sitshayeva) | [Bitbucket](https://bitbucket.org/lenara_sitshayeva) | [HackerRank](https://www.hackerrank.com/sitshayeva) | [AWS Certified Global Community](https://aws-certification.influitive.com/profiles/16874b24-62d0-4fbf-a9c8-c436a252cae0) | 
 
 <div style="background-color: #FFC107; padding: 20px;">
