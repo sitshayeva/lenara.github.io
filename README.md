@@ -40,7 +40,11 @@ I am currently seeking new opportunities to apply my skills and contribute to dr
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
 
-## Explore data by using SQl in Google Colab
+## Explore data by using SQL in Google Colab
+![Project Image](images/17.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/17)
+
+## SQL sub-queries in Google Colab 
 ![Project Image](images/16.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/16)
 
