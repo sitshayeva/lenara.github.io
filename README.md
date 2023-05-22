@@ -41,6 +41,11 @@ I am currently seeking new opportunities to apply my skills and contribute to dr
 ![Project Image](images/18_2.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/18)
 
+## Creating dynamic filters in Streamlit
+![Project Image](images/19_1.png)
+![Project Image](images/19_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/19)
+
 ## Assess the Quality of a Dataset for a Public Service Agency
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
