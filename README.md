@@ -51,6 +51,11 @@
 ![Project Image](images/22_2.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/22)
 
+## Natural Language Processing with Hugging Face Transformers
+![Project Image](images/23_1.png)
+![Project Image](images/23_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/23)
+
 ## Assess the Quality of a Dataset for a Public Service Agency
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
