@@ -1,13 +1,11 @@
 # Lenara Sitshayeva, Ph.D.
-- I am a data analyst with a strong background in leveraging data insights to drive business growth.
-- With over 6 years of experience, I have developed expertise in extracting and analyzing complex data sets, building data models, and generating meaningful insights.
-- My technical skills include SQL, Python, Tableau, and Power BI, which I have used to deliver impactful data-driven solutions.
-
-- One of my key strengths is my ability to collaborate effectively with cross-functional teams.
-- By working closely with stakeholders from different departments, I can identify opportunities for improvement and implement data-driven strategies to achieve business goals.
-- I am skilled in presenting insights to senior leadership, enabling informed decision-making and driving action.
-
-- I am currently seeking new opportunities to apply my skills and contribute to driving business results through data science.
+- Experienced IT professional with over 10 years of industry expertise, progressing from a database manager to a business analyst and eventually transitioning into data analytics. 
+- Successfully served as a Business Intelligence Specialist and Data Engineer. 
+- As Data Analyst in Descriptive and Predictive Analytics, consistently demonstrated a keen interest in Prescriptive Analytics and Optimisation. 
+- Committed to continuous learning and skill development, actively seeking new knowledge and techniques. 
+- Proficient in SQL, Python, Tableau, and Power BI, adept at extracting and analysing complex data sets, constructing data models, and generating valuable insights. 
+- Dedicated to enhancing my skill set, with a recent focus on Data Science. 
+- Currently seeking opportunities to apply my expertise, contribute to business growth, and make a positive impact in a supportive and challenging environment.
 
 <div style="background-color: #FFC107; padding: 20px;">
   <h1 style="color: #FFF;">CONTACTS</h1>
