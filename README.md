@@ -31,6 +31,11 @@
 ![Project Image](images/18_2.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/18)
 
+## WEB scrapping and Sentiment Analysis British Airways Customer Reviews
+![Project Image](images/24_1.png)
+![Project Image](images/24_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/24)
+
 ## Creating dynamic filters in Streamlit
 ![Project Image](images/19_1.png)
 ![Project Image](images/19_2.png)
