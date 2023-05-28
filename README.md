@@ -41,6 +41,11 @@
 ![Project Image](images/19_2.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/19)
 
+## Predicting Customer Behaviour British Airways
+![Project Image](images/25_1.png)
+![Project Image](images/25_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/25)
+
 ## Machine Learning Analysis in Retail
 ![Project Image](images/21.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/21)
