@@ -61,8 +61,7 @@
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/23)
 
 ## Auto Exploratory Data Analysis D-Tale, SweetViz, Pandas Profiling
-![Project Image](images/26_1.png)
-![Project Image](images/26_2.png)
+![Project Image](images/26.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/26)
 
 ## Auto ML and Bespoke ML with sklearn (Random Forest, Logistic Regression, SVC)
