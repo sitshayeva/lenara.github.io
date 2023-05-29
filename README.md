@@ -72,6 +72,10 @@
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
 
+## kaggle Housing Prices Competition
+![Project Image](images/28.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/28)
+
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
