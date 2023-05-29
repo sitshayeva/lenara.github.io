@@ -65,8 +65,7 @@
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/26)
 
 ## Auto ML and Bespoke ML with sklearn (Random Forest, Logistic Regression, SVC)
-![Project Image](images/27_1.png)
-![Project Image](images/27_2.png)
+![Project Image](images/27.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/27)
 
 ## Assess the Quality of a Dataset for a Public Service Agency
