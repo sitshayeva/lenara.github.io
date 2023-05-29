@@ -50,10 +50,6 @@
 ![Project Image](images/21.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/21)
 
-## Correlation in Python
-![Project Image](images/20.png)<br>
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
-
 ## Credit Card Fraud Detection Scikit-Learn and Snap ML
 ![Project Image](images/22_1.png)
 ![Project Image](images/22_2.png)
@@ -64,9 +60,23 @@
 ![Project Image](images/23_2.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/23)
 
+## Auto Exploratory Data Analysis D-Tale, SweetViz, Pandas Profiling
+![Project Image](images/26_1.png)
+![Project Image](images/26_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/26)
+
+## Auto ML and Bespoke ML with sklearn (Random Forest, Logistic Regression, SVC)
+![Project Image](images/27_1.png)
+![Project Image](images/27_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/27)
+
 ## Assess the Quality of a Dataset for a Public Service Agency
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
+
+## Correlation in Python
+![Project Image](images/20.png)<br>
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
 
 ## Explore data by using SQL in Google Colab
 ![Project Image](images/17.png)
