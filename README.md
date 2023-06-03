@@ -76,6 +76,10 @@
 ![Project Image](images/28.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/28)
 
+## Supervised ML: Regression Tree in Python
+![Project Image](images/29.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/29)
+
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
