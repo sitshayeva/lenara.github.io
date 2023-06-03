@@ -80,6 +80,10 @@
 ![Project Image](images/29.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/29)
 
+## Customer K-means clustering in Python
+![Project Image](images/30.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/30)
+
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
