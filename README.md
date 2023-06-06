@@ -84,6 +84,11 @@
 ![Project Image](images/30.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/30)
 
+## Machine Learning: Decision Tree with KNIME
+![Project Image](images/31_1.png)
+![Project Image](images/31_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/31)
+
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
