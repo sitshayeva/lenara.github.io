@@ -89,6 +89,10 @@
 ![Project Image](images/31_2.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/31)
 
+## NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment analysis
+![Project Image](images/32.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/32)
+
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
