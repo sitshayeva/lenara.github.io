@@ -94,6 +94,10 @@
 ![Project Image](images/32.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/32)
 
+## Amazon Customer Reviews Sentiment Analysis
+![Project Image](images/33.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/33)
+
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/20)
