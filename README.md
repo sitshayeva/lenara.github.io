@@ -77,6 +77,10 @@
 ![Project Image](images/28.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/28)
 
+## kaggle Store Sales - Time Series Forecasting
+![Project Image](images/34.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/34)
+
 ## Supervised ML: Regression Tree in Python
 ![Project Image](images/29.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/29)
