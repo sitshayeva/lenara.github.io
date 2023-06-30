@@ -12,11 +12,11 @@
 </div>
 
 
- [LinkedIn](https://www.linkedin.com/in/lenara-sitshayeva/)  [365 Data Science](learn.365financialanalyst.com/profile/lenara-sitshayeva-phd/)  [DataCamp](https://www.datacamp.com/profile/LenaraSitshayeva) [Kaggle](https://www.kaggle.com/lenarasitshayeva)  [Credly](https://www.credly.com/users/lenara-sitshayeva)  [Medium](https://medium.com/@sitshayeva) 
+ [LinkedIn](https://www.linkedin.com/in/lenara-sitshayeva/)      [365 Data Science](learn.365financialanalyst.com/profile/lenara-sitshayeva-phd/)     [DataCamp](https://www.datacamp.com/profile/LenaraSitshayeva) [Kaggle](https://www.kaggle.com/lenarasitshayeva)  [Credly](https://www.credly.com/users/lenara-sitshayeva)  [Medium](https://medium.com/@sitshayeva) 
 [Tableau](https://public.tableau.com/app/profile/lenara.sitshayeva) [Google Colab](https://drive.google.com/drive/folders/1hDZrSDr9H5a28IoPMrSnel6Gb2EZWeSX?usp=share_link) 
 <br>
 [GitHub](https://github.com/sitshayeva)  [Dags Hub](https://dagshub.com/sitshayeva)  [Jovian](https://jovian.com/sitshayeva)  [Data World](https://data.world/lenara) 
-[Codewars](https://www.codewars.com/users/sitshayeva)  [Bitbucket](https://bitbucket.org/lenara_sitshayeva)  [HackerRank](https://www.hackerrank.com/sitshayeva) |
+[Codewars](https://www.codewars.com/users/sitshayeva)  [Bitbucket](https://bitbucket.org/lenara_sitshayeva)  [HackerRank](https://www.hackerrank.com/sitshayeva) 
 <br>
 [AWS Certified Global Community](https://aws-certification.influitive.com/profiles/16874b24-62d0-4fbf-a9c8-c436a252cae0)  [Maven Analytics](https://mavenanalytics.io/profile/Lenara-Sitshayeva-Ph.D./96089275)
 [Google Scholar](https://scholar.google.com/citations?user=rzpnW-kAAAAJ&hl=en)
