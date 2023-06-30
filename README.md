@@ -98,6 +98,10 @@
 ![Project Image](images/32.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/32)
 
+## Recommendation System. Collaborative Filtering
+![Project Image](images/35.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/35)
+
 ## Amazon Customer Reviews Sentiment Analysis
 ![Project Image](images/33.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/33)
