@@ -54,6 +54,10 @@
 ![Project Image](images/35.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/35)
 
+## Book recommendation model. K-Nearest Neighbors
+![Project Image](images/37.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/37)
+
 ## Amazon Customer Reviews Sentiment Analysis
 ![Project Image](images/33.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/33)
