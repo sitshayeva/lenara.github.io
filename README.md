@@ -25,6 +25,43 @@
   <h1 style="color: #FFF;"> DATA PROJECTS </h1>
 </div>
 
+## kaggle Housing Prices Competition
+![Project Image](images/28.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/28)
+
+## kaggle Store Sales - Time Series Forecasting
+![Project Image](images/34.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/34)
+
+## Supervised ML: Regression Tree in Python
+![Project Image](images/29.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/29)
+
+## Customer K-means clustering in Python
+![Project Image](images/30.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/30)
+
+## Machine Learning: Decision Tree with KNIME
+![Project Image](images/31_1.png)
+![Project Image](images/31_2.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/31)
+
+## NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment analysis
+![Project Image](images/32.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/32)
+
+## Recommendation System. Collaborative Filtering
+![Project Image](images/35.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/35)
+
+## Amazon Customer Reviews Sentiment Analysis
+![Project Image](images/33.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/33)
+
+## Image Classifier using Tensorflow. Keras
+![Project Image](images/36.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/36)
+
 ## Sentiment Analysis of Yelp Business Reviews
 ![Project Image](images/15.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/15)
@@ -74,39 +111,6 @@
 ## Assess the Quality of a Dataset for a Public Service Agency
 ![Project Image](images/4.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/4)
-
-## kaggle Housing Prices Competition
-![Project Image](images/28.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/28)
-
-## kaggle Store Sales - Time Series Forecasting
-![Project Image](images/34.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/34)
-
-## Supervised ML: Regression Tree in Python
-![Project Image](images/29.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/29)
-
-## Customer K-means clustering in Python
-![Project Image](images/30.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/30)
-
-## Machine Learning: Decision Tree with KNIME
-![Project Image](images/31_1.png)
-![Project Image](images/31_2.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/31)
-
-## NLP Challenge: IMDB Dataset of 50K Movie Reviews to perform Sentiment analysis
-![Project Image](images/32.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/32)
-
-## Recommendation System. Collaborative Filtering
-![Project Image](images/35.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/35)
-
-## Amazon Customer Reviews Sentiment Analysis
-![Project Image](images/33.png)
-[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/33)
 
 ## Correlation in Python
 ![Project Image](images/20.png)<br>
