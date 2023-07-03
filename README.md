@@ -66,6 +66,10 @@
 ![Project Image](images/36.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/36)
 
+## Linear Regression Health Costs Calculator
+![Project Image](images/38.png)
+[View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/38)
+
 ## Sentiment Analysis of Yelp Business Reviews
 ![Project Image](images/15.png)
 [View Project's Files](https://github.com/sitshayeva/lenara.github.io/tree/main/projects/15)
